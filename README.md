@@ -18,7 +18,7 @@
 ## 使用方法
 
 1. 确保已安装 [.NET Framework 3.5 SP1](https://dotnet.microsoft.com/download/dotnet-framework/net35-sp1)
-2. 将 `WOW-MrBeast.exe` 和 `Main.wav` 放在同一目录
+2. 将 `WOW-MrBeast.exe`、`Main.wav`和`Main.ico` 放在同一目录
 3. 双击运行 `WOW-MrBeast.exe`
 4. 系统托盘会出现图标，点击左键即可播放音频
 
